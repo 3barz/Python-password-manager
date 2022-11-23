@@ -16,3 +16,6 @@ A basic python cli password manager
 
 ("-c", “–copy”, help=‘Copy password to clipboard’)
 
+More info on:
+www.3barz.com
+
