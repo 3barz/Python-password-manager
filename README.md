@@ -9,3 +9,4 @@ A basic python cli password manager
 ("-l", “–login”, help=“Username”)
 ("–length", help=“Length of the password to generate”)
 ("-c", “–copy”, help=‘Copy password to clipboard’)
+
